@@ -9,7 +9,7 @@ import javafx.scene.control.TextField;
 import javafx.scene.control.Button;
 
 
-public class Lab51 extends  Application {
+public class Calculator extends  Application {
     @Override
     public void start(Stage stage) throws Exception {
         StackPane pane=new StackPane();
